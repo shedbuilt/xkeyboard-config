@@ -1,0 +1,6 @@
+NAME=xkeyboard-config
+VERSION=2.26
+REVISION=1
+LICENSE=MIT
+SRC=https://www.x.org/pub/individual/data/xkeyboard-config/xkeyboard-config-2.26.tar.bz2
+SRCMD5=e2e980629bfeb9f40a7d44488b18ba12
